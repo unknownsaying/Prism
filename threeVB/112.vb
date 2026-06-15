@@ -415,7 +415,7 @@ End Class
 console.WriteLine(square3,square4,square5,square6,square7,square8,square9)
 
 const DET = det
-const tri = tri - antitri
+const TRI = tri - antitri
 const ONE = one + oppoone
 const DETtri = DET * tri
 const triDET = tri * DET
